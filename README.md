@@ -1,1 +1,2 @@
 # sudoku_solver
+type your sudoku in the input file, replacing gaps with zeros, as in the examples from the sudoku collection file, run the program, the solved sudoku will be displayed in the result file.  if the Sudoku turns out to be too difficult, then the program will partially solve it, in this case, perhaps in the “result” file instead of a number there will be an array of numbers - these are all possible numbers that can be in this place
